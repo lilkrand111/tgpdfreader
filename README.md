@@ -1,4 +1,4 @@
-# tgpdfreader
+# tgaipdfreader
 steps for git bash
 1. [cmd] python -m venv venv
 2. [cmd] source venv/Scripts/activate
